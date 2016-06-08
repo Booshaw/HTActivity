@@ -1,0 +1,194 @@
+
+/* funnyActivity*/
+.bannerTop {
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+
+}
+img{
+    height:auto;
+    max-width: 100%;
+    display: inline-block;
+}
+.col-sm-4{
+    width:25%;
+}
+.sectionNav{
+    background-color: #fc511d;
+}
+.HTVideos{
+    width:100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    margin-bottom: 1em;
+
+
+}
+.sourceSelect{
+    margin-bottom: 2em;
+}
+.video{
+    width:100%;
+    margin-top: 5px;
+
+}
+.video .col-sm-4{
+    width:20%;
+}
+.HTQQGroup{
+    width:100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    overflow: hidden;
+    margin-bottom: 2em;
+
+}
+.group{
+    width:100%;
+    position: relative;
+}
+@media (min-width:300px) and (max-width:400px) {
+    .addQQ{
+        width:100%;
+        position: absolute;
+        left: 80%;
+        top: 30%;
+    }
+    .addQQ h4{
+        color: red;
+    }
+}
+@media (min-width:1366px) and (max-width:1920px) {
+    .addQQ{
+        width:100%;
+        position: absolute;
+        left: 55%;
+        top: 71%;
+    }
+    .addQQ h4{
+        font-size: 20px;
+        color: red;
+        padding: 5px;
+    }
+}
+
+.addQQ h4{
+    color: red;
+    padding: 1px;
+}
+
+.HTInformation{
+    width:100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+
+}
+.HTWeChatNumber{
+    width:100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+    margin-top: 2em;
+
+}
+.bottom{
+    width:100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    border: none;
+}
+#footer{
+    margin-left: auto;
+    margin-right: auto;
+    bottom:0;
+}
+/*end FunnyActivity*/
+
+/*-------------------------------------------------------------------*/
+/*reviews*/
+body{
+    background-color: #fbf3e0;
+    font-family:  HelveticaNeueW02-45Ligh,HelveticaNeueW10-45Ligh,"Helvetica Neue",Helvetica,Arial,Tahoma,sans-serif;
+}
+.con{
+}
+.container, .container-fluid {
+    margin-right: auto;
+    margin-left: auto;
+}
+.tips{
+    height: 5px;
+    background-color: #ffff00;
+}
+.popup{
+
+    text-align: left;
+    padding: 40px 0;
+    -moz-box-shadow:-5px -5px 5px #999 inset;
+    -webkit-box-shadow:-5px -5px 5px #999 inset;
+    box-shadow:-5px -5px 5px #999 inset;
+}
+.spanColor{
+    color: #b20000;
+    font-size: 1.5em;
+}
+.HTReviews{
+    padding-left: -15px;
+    padding-right:-15px;
+    background-color: #b20000;
+    color: white;
+    -moz-box-shadow:-5px -5px 5px #6d0707 inset;
+    -webkit-box-shadow:-5px -5px 5px #6d0707 inset;
+    box-shadow:-5px -5px 5px #6d0707 inset;
+
+}
+.HTReviewsWidth{
+    width: 85%;
+}
+.HTReviewsDesign{
+    padding-bottom: 20px;
+
+}
+.btnPosition{
+    margin-left: auto;
+    margin-right:auto;
+}
+.courseColor{
+    background-color: #ffd03c;
+}
+.HTBtnLink{
+    display: block;
+}
+
+.Fixed{
+    position: fixed;
+    height: 155px;
+    width: 100px;
+    z-index: 999;
+    left:0;
+    top:45%;
+ }
+
+@media screen and (max-width: 500px){
+    .Fixed{
+        display: none;
+    }
+}
+
+.footer-links{
+    background-color: #3c3c3c;
+    color: white;
+    text-align:center;
+    padding:20px 0;
+}
+/*.row{*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+/*}*/
+
+
